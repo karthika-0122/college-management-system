@@ -7,3 +7,5 @@ Features:
 - View records
 - Update records
 - Delete records
+- Where records
+- Count records
